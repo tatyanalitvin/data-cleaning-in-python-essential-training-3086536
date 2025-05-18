@@ -1,0 +1,2 @@
+sha256sum metrics.csv
+sha256sum metrics.csv > sha256sum.txt
